@@ -1,0 +1,10 @@
+---
+title: "R Beginners"
+---
+## Tips & Resources for Beginning R Users
+
+### Tips
+When starting off....
+
+### Resources
+- www.....

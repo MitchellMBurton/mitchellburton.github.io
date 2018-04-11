@@ -2,4 +2,12 @@
 title: "About Me"
 ---
 
-Why I am awesome
+- __Name:__ Mitchell Burton
+- __Occupation:__ Data Scientist at ATO, Student at QUT
+- __Interests:__ Mathematics, History, Language, Art, Music, Science, Fitness & learning
+
+I am currently studying mathematics decision science and business
+economics at QUT, alongside working for the ATO in an
+undergraduate data-scientist role. I'm looking for employment in a
+position that can further my potential as a statistician and/or augment my ability to create value for firms and individuals
+

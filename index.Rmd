@@ -1,5 +1,14 @@
 ---
-title: "Mitchell's Website"
+title: "Home"
 ---
 
-Hello, World!
+##Hello, World!
+
+__This is my attempt at creating my personal website in R using R markdown.__
+
+
+
+
+
+
+made in ![](https://www.r-project.org/logo/Rlogo.svg)
